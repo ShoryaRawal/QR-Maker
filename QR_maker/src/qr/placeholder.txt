@@ -1,0 +1,1 @@
+This is just a placeholder, this folder is where the QR_codes will be saved.
